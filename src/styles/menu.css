@@ -1,0 +1,55 @@
+.breakfast-container {
+    text-align: center;
+    background-image: url('../assets/wooden-crate.png');
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+.breakfast-heading {
+    font-weight: bold;
+    color: orangered;
+}
+
+
+.lunch-container {
+    text-align: center;
+    background-image: url('../assets/wooden-crate.png');
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+.lunch-heading {
+    font-weight: bold;
+    color: orangered;
+}
+
+.dinner-container {
+    text-align: center;
+    background-image: url('../assets/wooden-crate.png');
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+.dinner-heading {
+    font-weight: bold;
+    color: orangered;
+}
+
+.menu-item {
+    text-align: center;
+    color: white;
+    padding: 5px;
+    border: 3px solid black;
+}

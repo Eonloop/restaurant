@@ -1,0 +1,38 @@
+.contact-container {
+    text-align: center;
+    background-image: url('../assets/wooden-crate.png');
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+.contact-heading {
+    font-weight: bold;
+    color: orangered;
+}
+
+
+.contact-info {
+    font-weight: bolder;
+    color: white;
+}
+
+.location-container {
+    text-align: center;
+    background-image: url('../assets/wooden-crate.png');
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px auto;
+    max-width: 600px;
+}
+
+
+.location-heading {
+    font-weight: bold;
+    color: orangered;
+}
